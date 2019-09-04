@@ -1,2 +1,1 @@
-# JavaHandsOn
-Repo while learning Java
+Final Version of Readme File
